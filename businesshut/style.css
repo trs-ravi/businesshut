@@ -1,0 +1,23 @@
+/*
+Theme Name: businesshut
+Theme URI: https://trssoftwaresolutions.com/businesshut/
+Author: Trsteam
+Author URI: https://trssoftwaresolutions.com/businesshutabout/
+Description: The WordPress theme businesshut is quick, highly configurable, and elegant. It may be used for a blog, personal portfolio, business website, or WooCommerce commerce. It is incredibly light and provides unmatched speed. Search engines will adore your website because businesshub was designed with SEO in mind. Because of its unique features and templates, it integrates easily with Elementor and Visual Composer. Designed, developed, maintained, and supported by Trsteam.
+Version: 1.7
+Text Domain: businesshut
+Tested up to: 6.4
+Requires PHP: 7.2
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, e-commerce, custom-menu, custom-logo
+
+Copyright (c) 2024 Trs Software Solutions Pvt Ltd.
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+a {
+    text-decoration: underline;
+}
